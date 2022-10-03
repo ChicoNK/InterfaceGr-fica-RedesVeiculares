@@ -1,0 +1,10 @@
+<simulations>
+    <simulation>
+        <gridsize>1000</gridsize>
+        <cars>30</cars>
+        <rsus>12</rsus>
+        <speed>50</speed>
+        <simtime>200</simtime>
+        <probfail>12</probfail>
+    </simulation>
+</simulations>
